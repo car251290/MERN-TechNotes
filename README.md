@@ -1,8 +1,17 @@
 # MERN-TechNotes
-MERN for taking notes and update to real server
+MERN for taking notes and updating to real server
 
-https://www.youtube.com/watch?v=CvCiNeLnZ00
+
 
 ## Node
+<div>
+  
+</div>
 ## js
+<div>
+  
+</div>
 ## React
+<div>
+  
+</div>
